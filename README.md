@@ -5,8 +5,8 @@ A ready to use Data Agent used for analysing retail sales data
 - Building a Retail Sales Data Agent on Databricks
   
 ### Project objective 
-- Gain skills on building an working Data Agent.
 - The objective was to build a Retail Sales Data Analysis Agent on Databricks (Genie Space) using the provided retail sales dataset. The agent allows the business owner to ask questions using plain English language about the shop's sales performance and it generates useful business insights based on the retail sales data.
+- Demonstrate Data Agent building skills.
 
 ### Tools used
 - Databricks (Genie Spaces)
