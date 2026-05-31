@@ -29,7 +29,9 @@ A ready to use Data Agent used for analysing retail sales data
 - Total_Amount: Is the total revenue from a transaction.
 
 ### Steps followed
-- Steps 1–3: Set Up Your Data (0.1 Upload The Dataset, 02. Review The Dataset and 03. Prepare The Table)
+- Steps 1: Upload Dataset
+- Step 2. Review The Dataset
+- Step 3. Prepare The Table
 - Step 4: Create the Data Agent
 - Step 5: Write Your Own Instructions
 - Step 6: Test with 10 Questions
